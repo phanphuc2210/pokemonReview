@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "OMH9fiN/cn/cFc0HOD3F45CzACNgQDctsT+Hm+cqK4ih+qkxEWObENKEUIWZuBhPYq6SP70kN5w7FklFjRFqSw==",
+  "dgSpecHash": "fSpN7m+UpVTiUhWnNY05qmnxMh0R/asax74HfBcPa+IU19uugcVBfYJk+QvppH6B2Kjke/1KyZVuyjXkO/Yqgw==",
   "success": true,
   "projectFilePath": "D:\\PhanPhuc\\learndonet\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
